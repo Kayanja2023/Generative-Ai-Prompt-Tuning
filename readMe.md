@@ -45,9 +45,9 @@ By the end of this project, you'll have a strong understanding of how to manipul
 
 ### **🔹 Step 1: Setting Up the Environment**
 You will need:
-- ✅ Python 3.7+
-- ✅ API access to an LLM model (Google Gemini API or OpenAI GPT-4)
-- ✅ `requests` and `json` libraries for API interaction
+- Python 3.7+
+- API access to an LLM model (Google Gemini API or OpenAI GPT-4)
+- requests` and `json` libraries for API interaction
 
 Install dependencies:
 ```bash
