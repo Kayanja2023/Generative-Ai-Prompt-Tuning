@@ -111,10 +111,10 @@ while True:
 ## **5️⃣ Real-World Applications & Next Steps**
 
 ### **🔹 Where Prompt Engineering is Used**
-✅ **Customer Support Chatbots** – Optimizing AI responses for FAQ handling
-✅ **Marketing & Content Creation** – Improving AI-generated ad copy and blog posts
-✅ **Legal & Finance AI Assistants** – Enhancing clarity in regulatory documents
-✅ **Healthcare & Research** – AI-powered medical diagnostics assistance
+- **Customer Support Chatbots** – Optimizing AI responses for FAQ handling
+-  **Marketing & Content Creation** – Improving AI-generated ad copy and blog posts
+-  **Legal & Finance AI Assistants** – Enhancing clarity in regulatory documents
+-  **Healthcare & Research** – AI-powered medical diagnostics assistance
 
 ### **🔹 Next Steps**
 - Advanced fine-tuning with **contextual embeddings**
