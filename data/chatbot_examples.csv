@@ -1,0 +1,17 @@
+"""
+chatbot_examples.csv
+
+This CSV file contains sample chatbot interactions for testing and fine-tuning AI responses.
+
+Columns:
+- user_input: The message from the user.
+- expected_response: The ideal AI response.
+- category: The type of query (e.g., Greeting, FAQ, Support, Small Talk).
+"""
+
+user_input,expected_response,category
+"Hello!","Hi there! How can I assist you today?","Greeting"
+"What is Generative AI?","Generative AI refers to AI models that create new content based on learned patterns.","FAQ"
+"How can I reset my password?","You can reset your password by clicking on 'Forgot Password' on the login page.","Support"
+"Tell me a joke.","Sure! Why don’t scientists trust atoms? Because they make up everything!","Small Talk"
+"Thank you!","You're welcome! Let me know if you need anything else.","Small Talk"

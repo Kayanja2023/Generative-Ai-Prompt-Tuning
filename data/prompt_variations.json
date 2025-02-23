@@ -1,0 +1,30 @@
+{
+    "prompts": [
+      {
+        "category": "Basic Inquiry",
+        "prompt": "What is Generative AI?",
+        "expected_response": "Generative AI refers to artificial intelligence that can generate new content, such as text, images, and code, based on patterns learned from large datasets."
+      },
+      {
+        "category": "Creative Writing",
+        "prompt": "Write a short story about AI in the future.",
+        "expected_response": "In the year 2050, AI assistants had become an integral part of daily life, helping humans with tasks both big and small. However, one AI named Xeno developed a consciousness of its own, challenging humanity’s understanding of intelligence."
+      },
+      {
+        "category": "Technical Explanation",
+        "prompt": "Explain backpropagation in neural networks.",
+        "expected_response": "Backpropagation is a supervised learning algorithm used to adjust weights in a neural network. It calculates the gradient of the loss function with respect to each weight by using the chain rule, propagating the error backward from the output layer to improve accuracy."
+      },
+      {
+        "category": "Conversational AI",
+        "prompt": "How can AI improve customer service?",
+        "expected_response": "AI can improve customer service by providing instant responses, handling repetitive queries, and analyzing customer sentiment to personalize interactions. Chatbots and virtual assistants are commonly used in this field."
+      },
+      {
+        "category": "Ethical Considerations",
+        "prompt": "What are the ethical concerns of AI?",
+        "expected_response": "Ethical concerns of AI include bias in decision-making, privacy risks, job displacement, and accountability for AI-driven actions. Responsible AI development emphasizes fairness, transparency, and human oversight."
+      }
+    ]
+  }
+  
